@@ -7,5 +7,5 @@ A practice to develop Flutter application .
 ## Layout
 - Build the layout for assignment 2
 
-    <img src="lorenzo_assignment2/imgages/lake.jpg" alt="Confirmation Activity"/>
+    <img src="lorenzo_assignment2/imgages/lake.jpg" alt="Layout"/>
 
