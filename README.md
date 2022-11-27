@@ -1,11 +1,16 @@
-# SOFE4640U Assignment 2
-By Jose Lorenzo Caguimbal (100555976)
+# lorenzo_assignment2
 
-## About
-A practice to develop Flutter application .
+A new Flutter project.
 
-## Layout
-- Build the layout for assignment 2
+## Getting Started
 
-    <img src="img/layout.png" alt="Layout"/>
+This project is a starting point for a Flutter application.
 
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
