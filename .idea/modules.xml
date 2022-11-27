@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/lorenzo_assignment2.iml" filepath="$PROJECT_DIR$/lorenzo_assignment2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/lorenzo_assignment2_android.iml" filepath="$PROJECT_DIR$/android/lorenzo_assignment2_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ssignment2-rcagui.iml" filepath="$PROJECT_DIR$/.idea/ssignment2-rcagui.iml" />
     </modules>
   </component>
 </project>
